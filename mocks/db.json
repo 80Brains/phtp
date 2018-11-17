@@ -1,0 +1,1694 @@
+{
+  "associations": [
+    {
+        "id": "d59cafef9d488875ba6578f9039c6693605f847d",
+            "associationId": "81471361600013",
+            "themes": ["Action sociale / Insertion / Economie Solidaire"],
+            "name": "ASSOCIATION DE LA GRAND'RUE",
+            "description": "le développement et la valorisation de la Grand'rue."
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.344856,
+                46.582751
+            ]
+        },
+    },
+    {
+        "id": "fcb5e87b184c005968ecf0cb2979397f8dbd5c89",
+            "associationId": "48948060800012",
+            "themes": ["Comités / Maisons de quartiers"],
+            "name": "ASSOCIATION DE L'OREE VERTE ET DE SES RIVERAINS",
+            "description": "L'Association a pour but :\n- Le développement de la vie associative et culturelle par le dialogue et la communication en partenariat avec les autres associations de la ville.\n- La défense des intérêts des habitants, de leur cadre de vie et de leur environnement.\n- La contribution au développement harmonieux du quartier.\n- L'information des habitants.\n- Faciliter les loisirs pour  tous, y compris pour les jeunes, les families, les personnes à mobilité réduite, les monos parentaux et les personnes âgées."
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.396589,
+                46.559544
+            ]
+        },
+    },
+    {
+        "id": "619a88cf5d5296f05c52b2db29c7891a9055f1a7",
+            "associationId": "82892935600016",
+            "themes": ["Santé / Prévention sanitaire"],
+            "name": "ASSOCIATION DE LUTTE CONTRE LA MACULOPATHIE MYOPIQUE - AMAM",
+            "description": "- Lutter contre les risques de cécité liés à la maculopathie myopique,\n- Aider les patients atteints de maculopathie myopique à surmonter leur handicap en leur portant assistance en les informant sur leur maladie et sur l'état des recherches en cours,\n- Promouvoir, encourager, faciliter la Recherche Médicale et Scientifique en ophtalmologie directement ou par l'intermédiaire d'un Comité Scientifique, sur le thème de la maculopathie myopique."
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.377225,
+                46.56028
+            ]
+        },
+    },
+    {
+        "id": "0a7c0f54a5dfab85574155b944eef156a26f49fa",
+            "description": "Favoriser et garantir le libre choix de l'école promouvoir le caractère propre de l'enseignement Catholique exprimé dans le projet éducatif de l'établissement en collaboration avec ses responsables et les organismes concernés, mettre en oeuvre et faire connaître le projet des APEL et renforcer le sentiment d'appartenance à un mouvement national à cet effet l'association adhère à l'APEL du département de la Vienne réunir toutes les personnes investies de l'autorité parentale à l'égard des enfants scolarisés dans l'établissement ou parents d'un élève majeur de l'établissement et assurer leur information, représenter les familles auprès des pouvoirs publics et de toutes autorités civiles ou religieuses, étudier toutes questions se rattachant à l'éducation des enfants à leurs droits et leurs devoirs et ceux de leur famille, permettre une entraide mutuelle des familles, participer à la vie de la communauté éducative et la promouvoir, apporter son soutien à l'établissement et contribuer à son animation.",
+            "themes": ["Famille / Enfance / Education"],
+            "name": "ASSOCIATION DE PARENTS D'ELEVES DE L'ENSEIGNEMENT LIBRE DE L'ENSEMBLE SCOLAIRE ISAAC DE L'ETOILE"
+        },
+    },
+    {
+        "id": "9a508a50c96fbfd85072b416e3121b9cc63f71c5",
+            "associationId": "43442653200017",
+            "themes": ["Autres"],
+            "name": "ASSOCIATION DE PREFIGURATION DU CENTRE DE VALORISATION DES COLLECTIONS SCIENTIFIQUES",
+            "description": "- de préfigurer la structure assurant, pour la mise en valeur et la conservation des collections scientifiques de l'Université de Poitiers, l'interface entre celle-ci, la Ville de Poitiers et l'Espace Mendès France associés au projet de préfiguration.\n- de valoriser les fonds de collections scientifiques dans le domaine des sciences naturelles (sciences de la terre, biologie animale et végétale) ainsi que l'instrumentation scientifique, par une coordination de leur conservation, de leur gestion, de leur exploitation, de leur promotion.\n- promouvoir les actions d'animation auprès des publics par des expositions, des productions en collaboration avec les personnes et les organismes oeuvrant dans ce domaine.\n- mettre à la disposition de la communauté scientifique nationale et internationale ces collections, dans des conditions d'accès satisfaisantes."
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.372985,
+                46.571491
+            ]
+        },
+    },
+    {
+        "id": "f50a3ce726a36aadb21d4c90723bda1f883b42e4",
+            "associationId": "38025505900012",
+            "themes": ["Environnement / Protection des animaux"],
+            "name": "ASSOCIATION DE PROFESSIONNELS DU TRAITEMMENT DES EAUX ET DES NUISANCES - APTEN",
+            "description": "Participer au développement et au placement des étudiants de l'ESIP. L'association organise chaque année des stages de formation permanente et tous les deux ans depuis 1974 un grand congrès réunissant plus de 600 participants : les Journées Informations Eaux (JIE)."
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.360214,
+                46.588555
+            ]
+        },
+    },
+    {
+        "id": "7fde16b7eda4e808442d699948457748f288546e",
+            "associationId": "53068205300018",
+            "themes": ["Autres"],
+            "name": "ASSOCIATION DE RECHERCHE ET D'ETUDE DU PATRIMOINE MARITIME ET FLUVIAL DU GRAND OUEST",
+            "description": "d'aider à l'organisation, le financement d'opérations de terrain, chantiers, conférences, expositions, publication, réalisation de films, création de sites web, coopération scientifique, échanges de savoir-faire, formation dans le domaine du patrimoine fluvial et maritime du grand ouest"
+        },
+    },
+    {
+        "id": "baff3ef6f0dc922b386cf1dffc5fad214390e0d0",
+            "associationId": "51456791600010",
+            "themes": ["Action sociale / Insertion / Economie Solidaire"],
+            "name": "ASSOCIATION DES ARTISANS COMMERCANTS DU MARCHE NOTRE DAME DE POITIERS",
+            "description": "- Assurer la promotion et l'animation du Marché Notre-Dame.\n- Engager toute actions de groupe de nature à développer la production, l'artisanat et le commerce du Marché Notre-Dame.\n- Emettre tous avis et propositions auprès des organismes compétents, de nature à améliorer la condition d'exploitation des activités professionnelles.\n- Représenter l'ensemble de ses membres, tant auprès des collectivités locale que de l'ensemble des intervenants impliqués dans l'aménagement, le fonctionnement et la vie économique du marché Notre-Dame.\n- S'affirmer comme un organe de réflexion, de concertation et d'élaboration de la politique commerciale et économique locale."
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.379141,
+                46.580674
+            ]
+        },
+    },
+    {
+        "id": "2f51f9fbc3f08405a4cc38ed31f12962824cde9d",
+            "associationId": "48941911900016",
+            "themes": ["Autres"],
+            "name": "ASSOCIATION DES COLLECTIONNEURS D’ARMES ET D’UNIFORMES DU POITOU - ACAUP",
+            "description": "• De regrouper conformément aux statuts les amateurs et collectionneurs des objets ayant trait à l’histoire en général, dont notamment les équipements militaires ou non (armes militaires, uniformes, médailles, insignes, armes et équipements de chasse, etc …) et les pièces historiques (documents ou objets) qui permettent d’approfondir ou de compléter la connaissance du développement, et de l’évolution des sciences et des techniques, tant sur le plan civil que militaire.\n\n• De nouer des liens et des collaborations aussi bien sur le plan régional que national, afin de permettre et de faciliter des relations d’entraide et de pouvoir répondre aux sollicitations tant des autorités que de toute personne ou association s’intéressant à tout ou partie de ces objets ayant pour but de participer à la conservation du patrimoine historique et de faire connaître et faire développer leurs collections et activités dans le cadre de la législation en vigueur.\n\n• D’établir des rapports privilégiés avec l’armée, ses établissements et ses musées.\n\n• De répondre à la demande d’information du public, de tenir un rôle didactique envers la jeunesse sur tous les sujets ayant un rapport avec les objets précités, par exemple en constituant et en diffusant une documentation générale sur ces mêmes questions.\n\n• De défendre par les voies qu’il appartiendra, les intérêts légitimes des membres de l’association, ou de l’association elle-même, collectionneurs ou amateurs des objets ayant trait à l’histoire en général."
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.314983,
+                46.563573
+            ]
+        },
+    },
+    {
+        "id": "b34f01c40eb6dc41fea4aa88f3985e9024542417",
+            "associationId": "53993643500012",
+            "themes": ["Loisirs / Tourisme"],
+            "name": "ASSOCIATION DES COLLECTIONNEURS DE BUXEROLLES",
+            "description": "Il est formé entre les soussignés et les personnes qui adhèreront et rempliront les conditions ci-après, une association qui est régie par la loi du 1er juillet 1901 et les statuts qui a pour objet de rassembler et d’animer un groupe de collectionneurs amateurs dans une ambiance amicale."
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.352441,
+                46.598605
+            ]
+        },
+    },
+    {
+        "id": "77390d2b923006bbc1d2f2db638bfbcf8d642757",
+            "associationId": "80006924700016",
+            "themes": ["Autres"],
+            "name": "ASSOCIATION DES ETUDIANTS EN MASTER PRO ASSISTANT REALISATEUR - AMPAR",
+            "description": "De soutenir des projets artistiques et culturels portés par ses membres et ayant un rapport direct avec la formation des étudiants, d'organiser des événements contribuant au rayonnement du Master, d'accompagner et de favoriser l'insertion professionnelle des étudiants, en développant les lien entre le Master et le milieu de la production cinématographique et audio-visuelle."
+        },
+    },
+    {
+        "id": "b042f839e41be1249213ce62d69db4844f7ba1ad",
+            "associationId": "51886884900010",
+            "themes": ["International"],
+            "name": "ASSOCIATION DES ETUDIANTS GUINEENS DE POITIERS - EGP",
+            "description": "- Améliorer les conditions de vie des étudiants guinéens\n- Aider et orienter les nouveaux arrivants\n- Organiser des activités culturelles, sportives et académiques\n- Etablir des relations de partenariat avec d'autres structures associatives\n- Etablir un lien de partenariat avec les étudiants et certains Etablissements de la Guinée."
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.372985,
+                46.571491
+            ]
+        },
+    },
+    {
+        "id": "26c354326e544393be05c432d404df5a997c348c",
+            "description": "Veiller à la défense des intérêts matériels et moraux des élèves, gérer la garderie du primaire.",
+            "themes": ["Famille / Enfance / Education"],
+            "name": "ASSOCIATION DES PARENTS D'ELEVES ALPHONSE BOULOUX"
+        },
+    },
+    {
+        "id": "69a50d99cbcf0f211c6404609f930ddb92aa48e0",
+            "description": "Regrouper l'ensemble des parents d'élèves afin de les informer surtout ce qui concerne l'école, favoriser le développement social et la solidarite au sein des quartiers.",
+            "themes": ["Famille / Enfance / Education"],
+            "name": "ASSOCIATION DES PARENTS D'ELEVES DE L'ECOLE TONY LAINE"
+        },
+    },
+    {
+        "id": "ab7b79569d02c6e16205ce401af9f254acd4357e",
+            "associationId": "38384652400015",
+            "themes": ["Famille / Enfance / Education"],
+            "name": "ASSOCIATION DES PARENTS D'ELEVES DE L'ENSEIGNEMENT PUBLIC (PEEP) DE POITIERS",
+            "description": "- de rassembler les parents d'élèves ou d'apprentis autour de valeurs communes, au premier rang desquelles : le parent premier éducateur de son enfant, la défense de\nl’intérêt des élèves et d'apprentis, l’attachement à la laïcité de l'enseignement ;\n- de contribuer au maintien des principes laïques de neutralité scolaire, d'objectivité et de tolérance sur lesquels repose l'enseignement public ;\n- d'étudier toute question qui concerne l'intérêt des élèves de l'enseignement public et de leurs familles ;\n- de faciliter les rapports entre les parents, le corps enseignant et les  autorités dans le\nressort de l’Association ;\n- d'assurer la représentation des familles dans les conseils d'école, les conseils d'administration et autres instances ;\n- d'apporter son concours aux administrations en vue d'améliorer les conditions de la vie scolaire des élèves ;\n- de promouvoir et gérer (directement ou en participation), dans l'intérêt des élèves et de leurs familles, toutes organisations à caractère éducatif, culturel, sportif ou social."
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.356177,
+                46.568636
+            ]
+        },
+    },
+    {
+        "id": "78b2bca277ffe4ce2f1d0f1cbe81a819f25dbacd",
+            "description": "1. de regrouper l'ensemble des parents d'élèves des établissements scolaires Jean Mermoz, de formuler en leur nom des voeux sur tous objet concernant les intérêts moraux et matériels de l'établissement scolaire, des élèves qui le fréquentent et de leurs parents, d'en suivre la réalisation et de veiller à leur application;\n2. de représenter les parents d'élèves auprès des pouvoirs publics et d'agir légalement en leur nom sur le plan local;\n3. de documenter les parents sur tout ce qui concerne la vie et l'orientation de l'élève;\n4. d'apporter aide et soutien aux parents d'élèves des établissements publics et aux élèves qui les fréquentent, de dénoncer et combattre :\n- toute forme de racisme;\n- toute forme de violence sexuelle;\n- la maltraitance infantile;\n- toute forme de discrimination fondée sur le sexe ou sur les moeurs;\n- toute forme de discrimination contre les personnes malades ou handicapées;\n- l'exclusion sociale ou culturelle des personnes en état de grande pauvreté, ou en raison de leur situation familiale.\n\nayant un lien avec les activités scolaires et périscolaires mises en oeuvre par les ministères et/ou par les collectivités territoriales, et/ou par les associations agréées, cela par tous les moyens et notamment l'action judiciaire.\n\n5. de permettre l'organisation de toute manifestation ou prestation de service au bénéfice de ses adhérents dans le cadre de la défense ou du développement des buts ci-dessus rappelés.",
+            "themes": ["Famille / Enfance / Education"],
+            "name": "ASSOCIATION DES PARENTS D'ELEVES DES ECOLES JEAN MERMOZ"
+        },
+    },
+    {
+        "id": "57f85dc6b69369a224852cf0557f873a293f0134",
+            "associationId": "34163459000010",
+            "themes": ["Famille / Enfance / Education"],
+            "name": "ASSOCIATION DES PARENTS D'ELEVES DU BREUIL MINGOT",
+            "description": "Apporter un soutien (en organisation diverses manifestations au cours de l'année) à l'amélioration des conditions d'accueil des élèves et à l'organisation d'activité à caractère éducatif, culturel et sportif, contribuer à l'équilibre des rapports entre les parents, le corps enseignant et les institutions dont relèvent les établissements scolaires, de promouvoir le groupe scolaire auprès des parents d'élèves, des habitants du quartier et des institutions."
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.405228,
+                46.58893
+            ]
+        },
+    },
+    {
+        "id": "59f1820a9fb0b825ea6f7610a8e45587126ed824",
+            "description": "Grouper les chefs de famille ayant la charge d'enfants inscrits au lycee dans toutes activites susceptibles d'apporter un soutien materiel et moral au lycee aux familles et aux maîtres.",
+            "themes": ["Famille / Enfance / Education"],
+            "name": "ASSOCIATION DES PARENTS D'ELEVES DU LYCEE PRIVE DES FEUILLANTS"
+        },
+    },
+    {
+        "id": "6b6281718dbbaf6c4ad16a355e54c21bbb8b5c49",
+            "description": "Veiller à la défense des intérêts matériels et moraux des enfants de l'école maternelle du Petit Tour, informer les parents sur tout ce qui concerne la vie scolaire de leurs enfants, représenter les parents d'élèves de l'enseignement public auprès des établissements scolaires du corps enseignant, des autorités académiques, des collectivités locales, des pouvoirs publics et de tout organisme concerné par l'enseignement.",
+            "themes": ["Famille / Enfance / Education"],
+            "name": "ASSOCIATION DES PARENTS D'ELEVES DU PETIT TOUR"
+        },
+    },
+    {
+        "id": "7e22cc8e3e19d05eb92dc5d2513ad00dc4cb2938",
+            "description": "Regrouper les parents d'élèves du LP2I pour favoriser les échanges et formuler des propositions sur l'ensemble des questions d'éducation , présenter des candidats pour participer aux différentes commissions ouvertes aux parents d'élèves (conseil d'administration du lycée, conseils de classe, etc.) , partager l'objectif général de faire progresser l'école de l'égalité des chances pour tous-tes et pour chacun(e) dans le respect de la laïcité.",
+            "themes": ["Famille / Enfance / Education"],
+            "name": "ASSOCIATION DES PARENTS D'ELEVES FCPE DU LP2I"
+        },
+    },
+    {
+        "id": "1a427fa727b1cd31bd6aef7ee40a4e8cc2eae6d2",
+            "description": "Réunir, informer et aider les parents d'élèves de l'école primaire Andersen, permettre de participer à la vie de l'école, c'est à dire aux conseils d'école ainsi qu'à toutes autres manifestations que l'école est susceptible d'organiser.",
+            "themes": ["Famille / Enfance / Education"],
+            "name": "ASSOCIATION DES PARENTS D'ELEVES SOLIDAIRES DU GROUPE SCOLAIRE ANDERSEN"
+        },
+    },
+    {
+        "id": "e9fec29b1529006a396fd86c4850409cb0bcfb97",
+            "associationId": "48387153900019",
+            "themes": ["Famille / Enfance / Education"],
+            "name": "ASSOCIATION DES PARENTS ET DE LA FAMILLE MAROCAINE POUR LE DIALOGUE ET L'INTEGRATION - APFMDI",
+            "description": "Association socio-éducative visant l'accompagnement à la solidarité, le soutien scolaire, les loisirs et les sorties (voyages, excursions)."
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.360909,
+                46.590936
+            ]
+        },
+    },
+    {
+        "id": "a9273907c3e5650e91a8c3232838f407c532b18b",
+            "associationId": "48480792000018",
+            "themes": ["Famille / Enfance / Education"],
+            "name": "ASSOCIATION DES TRAVAILLEURS ET DES COMMERCANTS MAROCAINS ET DE LA JEUNESSE MAROCAINE - ATCMJC",
+            "description": "Regrouper l'ensemble des ressortissants marocains et d'autres nationalités résidents dans la Vienne pour des actions éducatives, culturelles, sportives et sociales.\n1. L'informatique\n2. Organiser des voyages et des rencontres avec d'autres familles\n3. Organiser des rencontres sportives entre les jeunes\n4. Les prisonniers maghrébins de POITIERS (visites)\n5. Cours de soutien\n6. Apprentissage de l'Arabe\n7. Faire decouvrir à tout le monde la culture marocaine par des manifestations...\n8. Aide à l'intégration des jeunes."
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.381606,
+                46.58505
+            ]
+        },
+    },
+    {
+        "id": "ed95acc7d218234946284fc2fe45dce87114c0db",
+            "description": "Le développement et le soutien de l'enseignement religieux dans le diocèse de Poitiers sous toutes ses formes et pour tous les âges.\nLa formation des catéchistes et la mise à leur disposition de tout ce qui peut être utile à l'accomplissement de leur tâche.",
+            "themes": ["Famille / Enfance / Education"],
+            "name": "ASSOCIATION DIOCESAINE DE L'ENSEIGNEMENT RELIGIEUX - ADER"
+        },
+    },
+    {
+        "id": "8b19b696c109ba6e646c4093456957625750e324",
+            "associationId": "44215685700017",
+            "themes": ["Arts/Culture"],
+            "name": "ASSOCIATION DJAHKOOLOO",
+            "description": "Cette association a pour but de mettre en place un espace de création et d'échanges culturels ainsi que la production et la diffusion de spectacles vivants tant au plan local qu'international."
+        },
+    },
+    {
+        "id": "c0380bcbdc943adba7db08ed73076bef71543ee0",
+            "associationId": "53002596400012",
+            "themes": ["Autres"],
+            "name": "ASSOCIATION DU MASTER 2 DE DROIT DU CONTENTIEUX INTERNATIONAL DE POITIERS",
+            "description": "Cette association a pour objet de promouvoir le Master II Droit du contentieux international de l'Université de Poitiers ; d'organiser les activités qui le promeuvent. A ces fins, l'association organise des voyages, des journées d'études, tient à jour un annuaire des personnes ayant été inscrites dans ce Master. L'association organise tout   autre événement visant cet objectif."
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.344395,
+                46.584194
+            ]
+        },
+    },
+    {
+        "id": "649d7a10193c79273b6ba280bd6d418e19e04d73",
+            "associationId": "52394329800019",
+            "themes": ["Action sociale / Insertion / Economie Solidaire"],
+            "name": "ASSOCIATION ECONOMIQUE DU PONT NEUF",
+            "description": "- défendre, promouvoir et animer le commerce, l'artisanat, l'indutrie, les service et professions libérales du quartier du Pont Neuf à Poitiers\n- représenter l'ensemble de ses membres, tant auprès des collectivités locales que de l'ensemble des intervenant impliqués dans l'aménagement, le fonctionnement et la vie économique du quartier du Pont Neuf à Poitiers."
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.357963,
+                46.591066
+            ]
+        },
+    },
+    {
+        "id": "c835e380fd21386b1fc4c307f0bcb95d93550f5a",
+            "associationId": "82467949200010",
+            "themes": ["Arts/Culture"],
+            "name": "ASSOCIATION FAIS TON CIRK",
+            "description": "Favoriser, développer et promouvoir des activités et des actions culturelles, éducatives et sociales.\nFais ton cirk est une association de cirque et d'arts de rue qui organise des festivals, des rencontres et des évènements ludiques et culturels."
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.387442,
+                46.572993
+            ]
+        },
+    },
+    {
+        "id": "a5ca33499546b6afc98f1e547dce8fc940a9123b",
+            "associationId": "50525927500012",
+            "themes": ["Autres"],
+            "name": "ASSOCIATION FRANCOPHONE POUR VAINCRE LES DOULEURS - AFVD",
+            "description": "- De Partager l’information avec les patients, leur entourage et le tout public sur la\ndouleur, la souffrance psychique et les moyens thérapeutiques à leur disposition pour la combattre.\n- D’améliorer l’accès pour tous les patients à toutes les techniques scientifiquement\nvalidées et disponibles.\n- D’intervenir  auprès  des  instances  professionnelles  et  politiques  concernées  pour améliorer la formation des professionnels de santé médicaux et paramédicaux.\n- De faire promouvoir les bonnes pratiques de soins et de prise en charge de la douleur et de la souffrance psychique qui y est liée.\n- De défendre les intérêts des patients et malades en général et des personnes victimes de la douleur et de la souffrance psychique qui y est liée en particulier."
+        },
+    },
+    {
+        "id": "40e148d9fb93030fdddbfffdb49b8150caa3a598",
+            "associationId": "34825058000050",
+            "themes": ["Action sociale / Insertion / Economie Solidaire"],
+            "name": "ASSOCIATION INDIGO FORMATION",
+            "description": "Organiser des actions de formation en direction du public demandeur\nd'emploi, jeunes et/ou adultes.\nMener tout type d'action d'aide a l'insertion des publics en difficulte.\nMener tout type d'action de formation aupres des salaries d'entreprise ou\ntout autre public.\nMettre en place des actions en liaison avec d'autres organismes de\nformation, collectivites, administrations ou entreprises.\nParticiper aux actions de developpement local et a tout projet en relation\navec l'objet de l'association."
+        },
+    },
+    {
+        "id": "3c45d2274bbc4303559436d07040693b4808a6f1",
+            "associationId": "78153577800034",
+            "themes": ["Action sociale / Insertion / Economie Solidaire"],
+            "name": "ASSOCIATION LOCALE ADMR DE LUSIGNAN",
+            "description": "1. D'aider à tous les moments de leur existence toute famille ou personne habitant dans les communes et les quartiers où elle exerce son action.\nPour ce faire, elle assure la responsabilité matérielle et morale de la marche d'une ou plusieurs branches d'activité pouvant concourir à la réalisation de cet objectif.\n\nElle est, ou peut devenir, employeur de toutes les personnes utiles à cette action du social, du médico-social et du sanitaire, notamment dans le domaine de la vie quotidienne, du socio-éducatif, de la santé, ainsi que du développement local, conformément au règlement intérieur agréé par l'Union nationale des associations ADMR.\n\n2. De développer un climat familial et d'intensifier les courants de solidarité, la vie sociale et l'animation dans les communes qu'elle dessert en faisant participer les familles, notamment celles ayant bénéficié de l'action de l'association."
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.120921,
+                46.43576
+            ]
+        },
+    },
+    {
+        "id": "2a14922df0e73c155d81db9956108d84e29d0f82",
+            "description": "Pour la reconnaissance et la prise en compte des maladies chromosomiques exceptionnelles dites \"maladies orphelines\" en apportant une aide sous toute forme aux personnes atteintes d'une maladie génétique et dégénerative.",
+            "themes": ["Santé / Prévention sanitaire"],
+            "name": "ASSOCIATION MICKAEL"
+        },
+    },
+    {
+        "id": "18880defe903f43961f692cc6da13f2aa77f8d3a",
+            "associationId": "43771180700069",
+            "themes": ["Action sociale / Insertion / Economie Solidaire"],
+            "name": "ASSOCIATION NATIONALE DE DEVELOPPEMENT DES EPICERIES SOLIDAIRES - A.N.D.E.S.",
+            "description": "- de fédérer les épiceries en leur apportant une représentation nationale et un appui dans différents domaines : information, formation, communication...\n- de servir d'interface entre les épiceries, les industriels, les pouvoirs publics, les réseaux nationaux, les fondations...\n- d'intervenir en prestations de services auprès des épiceries, des collectivités territoriales ou de tout porteur de projet pour soutenir la création, le développement d'initiatives dans les domaines de l'insertion et de la solidarité.\n- de publier tous documents afférents à ce type de projet, organiser réunions, colloques, études, relations presse et de façon générale tout évenement lié à l'activité.\n- de mettre en place, de gérer et d'exploiter toute activité permettant de fournir, aux épiceries, tous produits ou services nécessaires à leur activité.\n- de mettre en place tous les outils utiles à la création et au développement des épiceries."
+        },
+    },
+    {
+        "id": "6c704e69e800eadeaee564932b53254c85f57a78",
+            "associationId": "78431301700021",
+            "themes": ["Action sociale / Insertion / Economie Solidaire"],
+            "name": "ASSOCIATION NATIONALE DES VISITEURS DE PRISON - ANVP",
+            "description": "- d'aider moralement et matériellement les personnes incarcérées et leurs familles pendant la période de détention ;\n- d'aider les personnes détenues à réussir leur réinsertion sociale lors de leur libération."
+        },
+    },
+    {
+        "id": "7349d4d12b16b968bbb77f9246555be3a65461b2",
+            "associationId": "30054483000015",
+            "themes": ["Autres"],
+            "name": "ASSOCIATION PARENTS D'ELEVES DU GROUPE SCOLAIRE CAMILLE DESMOULINS",
+            "description": "L'Association a pour objet :\n- d'organiser et d'assurer, les jours de classe, le repas de midi aux élèvess fréquentant le groupe scolaire de Vouneuil sous Biard\n- d'organiser et d'assurer les jours de classe, la garde des enfants qui seraient confiés à l'A.P.E.\n- d'assurer le fonctionnement d'un fond social."
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.275872,
+                46.576401
+            ]
+        },
+    },
+    {
+        "id": "234dc09471bb6d01652c56e31cb432fa62cbaf24",
+            "associationId": "82808994600010",
+            "themes": ["Sports"],
+            "name": "ASSOCIATION POITEVINE D'AIKIDO",
+            "description": "la pratique de l'aïkido régie par la Fédération Française d'aïkido aïkibudo et affinitaires (F.F.A.A.A)."
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.34523,
+                46.583487
+            ]
+        },
+    },
+    {
+        "id": "fa867e83f9d2c1880fd643aa8703c76732bdf06c",
+            "associationId": "49849294100014",
+            "themes": ["Environnement / Protection des animaux"],
+            "name": "ASSOCIATION POITEVINE DES AMIS DES OISEAUX - APAO"
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.354017,
+                46.581704
+            ]
+        },
+    },
+    {
+        "id": "642e77dccd52514ad3e352125a75a398ab6a6e91",
+            "associationId": "49396736800025",
+            "themes": ["Arts/Culture"],
+            "name": "ASSOCIATION POITEVINE DES AMIS DU THEATRE POPULAIRE",
+            "description": "De grouper les personnes attachées au renouvellement des formes dramatiques, à l'élargissement du public théâtral et, en particulier, à l'oeuvre entreprise par Jean VILAR et son équipe. Elle se propose en outre de soutenir tout effort théâtral semblable et généralement toutes manifestations d'éducation populaire pouvant se rattacher directement ou indirectement aux but qu'elle s'est assignés."
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.339615,
+                46.581437
+            ]
+        },
+    },
+    {
+        "id": "dd941a8b6152487af0061c6361be482edd191a3c",
+            "description": "Mener des actions d'éducation populaire par l'échange de savoirs, de sensibilisation et de communication auprès de tous les utilisateurs de systèmes informatiques, de valorisation des actions locales en faveur des logiciels libres et des standards ouverts.",
+            "themes": ["Autres"],
+            "name": "ASSOCIATION POITEVINE POUR LA PROMOTION DES LOGICIELS LIBRES ET DES STANDARDS OUVERTS (AP2L2)"
+        },
+    },
+    {
+        "id": "8cfd23bf0ecdb96548174a84c1e9793c2c168a96",
+            "associationId": "49015168500206",
+            "themes": ["Autres"],
+            "name": "ASSOCIATION POUR ADULTES ET JEUNES HANDICAPES",
+            "description": "1. la mise en œuvre de toute action destinée à favoriser l'épanouissement des personnes en situation de handicap et à assurer leur intégration dans les différents domaines de la vie.\n2. d'agir auprès des pouvoirs publics pour qu'ils assurent aux personnes en situation de handicap et à leurs familles l'aide morale et matérielle qui leur est due, pour qu'ils mettent en place les structures et les services permettant leur plein épanouissement par l'éducation, la culture, l'organisation des sports, des loisirs et des vacances, les soins propres à leur état et leur insertion dans le monde du travail.\n3. d'assurer la représentation et l'intervention au nom des personnes en situation de handicap auprès des instances départementales et régionales, ainsi que des partenaires sociaux :\n- des personnes en situation de handicap\n- des parents, des familles et des tuteurs des personnes en situation de handicap qu'elle regroupe, sans distinction d'âge, de sexe, de religion ou de nationalité.\n4. la représentation de l'association départementale auprès des partenaires sociaux et pouvoirs publics locaux\n5. la création et la gestion de services et établissements au bénéfice des personnes en situation de handicap destinés à les accueillir et/ou à les accompagner en mettant en place :\n-les équipements nécessaires pour compléter les équipements publics existant,\n-des formules nouvelles d'éducation, de formation et d'intégration sociale et professionnelle,\n-des activités culturelles,\n-des centres de loisirs et de vacances,\n-des aides en direction de leurs familles,\n6. d'entretenir entre les intéressés l'esprit d'entraide et de solidarité.\n7. d'assurer, au besoin, le suivi effectif des personnes en situation de handicap après la disparition de leur famille."
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.309425,
+                46.615168
+            ]
+        },
+    },
+    {
+        "id": "bb22261bb04ac5793254c2076c87312d214afcad",
+            "associationId": "79422214100010",
+            "themes": ["Action sociale / Insertion / Economie Solidaire"],
+            "name": "ASSOCIATION POUR LE DEVELOPPEMENT DURABLE DE MALAGUET",
+            "description": "- La mutualisation des moyens de production et valorisation (transformation, commercialisation, pédagogie) des activités agricoles en agriculture biologique du site de malaguet.\n- La gestion des infrastructures pour les agriculteurs et associations présents sur le site en lien avec le bailleur\n- la création de lien social par l’activité économique\n- le développement de l’emploi, de la formation et de l’insertion par l’activité agricole et environnementale."
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.342657,
+                46.635192
+            ]
+        },
+    },
+    {
+        "id": "cd2b8aea08a8ce6f0f141ead62c68a1245db191b",
+            "associationId": "35221687301276",
+            "themes": ["Action sociale / Insertion / Economie Solidaire"],
+            "name": "ASSOCIATION POUR LE DROIT A L'INITIATIVE ECONOMIQUE - ADIE",
+            "description": "Promouvoir directement ou indirectement le droit à l'initiative économique des catégories de population les plus défavorisées porteurs de projets de création ou de développement d'activité économique et d'accès ou de retour à l'emploi, en les plaçant dans des conditions leur permettant d'exercer ce droit par l'octroi de toute forme de concours et appuis en particulier techniques et/ou financiers adaptés à leur situation et à leurs besoins."
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.357843,
+                46.589811
+            ]
+        },
+    },
+    {
+        "id": "6b5e9eec3af3985958301ee0d45ee508eef582ef",
+            "associationId": "41040690400020",
+            "themes": ["Autres"],
+            "name": "ASSOCIATION REGIONALE DE CARDIOLOGIE DE POITOU-CHARENTES",
+            "description": "D'informer et d'éduquer le public en vue de la prévention des maladies cardio­vasculaires,\n- de promouvoir et favoriser les recherches médicales,\n- d'apporter une aide à la réadaptation et à la réinsertion des cardiaques dans la vie sociale,\n\nToutes ces actions se feront en liaison avec la Fédération Française de Cardiologie (FFC).\nA cet effet, l'Association peut acquérir, construire, prendre à bail ou donner bail, tous les immeubles ou établissements nécessaires à la réalisation de son objet et pourra en assurer la gestion."
+        },
+    },
+    {
+        "id": "43e42e32e64a46a62d3cbb046f5b9bccfe585d9c",
+            "associationId": "78156277200033",
+            "themes": ["Famille / Enfance / Education"],
+            "name": "ASSOCIATION REGIONALE DES OEUVRES EDUCATIVES ET DE VACANCES DE L'EDUCATION NATIONALE - AROEVEN",
+            "description": "- d’organiser et de développer toutes les actions de formation et d’Education permanente, de vacances et de loisirs en faveur des jeunes et d’associations.\n- de contribuer à la formation initiale et continue de l'encadrement nécessaire au fonctionnement de ces actions.\n- de participer à la formation des personnels de l’Education Nationale, des élèves et de leurs parents."
+        },
+    },
+    {
+        "id": "45c81c35fd1d868c8ac6cf35a13b9a6db7b81073",
+            "associationId": "37994202200037",
+            "themes": ["Action sociale / Insertion / Economie Solidaire"],
+            "name": "ASSOCIATION REGIONALE POUR L'INSERTION DES JEUNES EN EUROPE - ARIJE",
+            "description": "Organiser des stages professionnels à l'étranger."
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.339615,
+                46.581437
+            ]
+        },
+    },
+    {
+        "id": "a2d9aa59ba2d448a501b7658e8d5042d4f570cc5",
+            "themes": ["Sports"],
+            "name": "ASSOCIATION SPORTIVE AMICALE DES COURONNERIES FOOTBALL"
+        },
+    },
+    {
+        "id": "cd7f6853136169fe0a3665317c7498386208698a",
+            "associationId": "39506380300013",
+            "themes": ["Sports"],
+            "name": "ASSOCIATION SPORTIVE AMICALE DES COURONNERIES TENNIS"
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.352703,
+                46.591625
+            ]
+        },
+    },
+    {
+        "id": "85cdb0435a2044c4630b82721fb896a757562afc",
+            "associationId": "78156488500049",
+            "themes": ["Sports"],
+            "name": "ASSOCIATION SPORTIVE ASPTT DE POITIERS",
+            "description": "La pratique des activités physiques et sportives,\n- l'organisation de fêtes, manifestations et animations sportives,\n- la participation aux compétitions des Fédérations délégataires ou affinitaires,\n- la participation aux compétitions corporatives ou aux activités sportives d'entreprise et l'organisation de rencontres interservices,\n- l’organisation de loisirs sportifs et sociaux, de séjours et de voyages à thème sportif\n- la mise en place de prestations offertes à ses adhérents par le biais de conventions de partenariat avec les Fédérations ou groupements sportifs, les collectivités locales, les prestataires de services sportifs, les organisations de vacances sportives.\n\nElle peut accessoirement gérer directement toute activité de restauration, d'’hébergement, d'accueil ou de ventes de biens ou de prestations au profit de ses adhérents."
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.335075,
+                46.586494
+            ]
+        },
+    },
+    {
+        "id": "27a2f668ad275748262b58dd29da93ab390b0ab7",
+            "associationId": "38947686200039",
+            "themes": ["Sports"],
+            "name": "ASSOCIATION PROFESSION SPORT LOISIRS VIENNE (APSL 86)",
+            "description": "Information, aide et conseils à la création et la gestion d'emploi dans le sport et l'animation socioculturelle. Information sur les métiers du sport et de l'animation. Mise en relation des offres et demandes d'emploi dans ces domaines."
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.264593,
+                46.579643
+            ]
+        },
+    },
+    {
+        "id": "a463f9714573aa7fa5ff709a695dd759f42f2e55",
+            "associationId": "48276900700048",
+            "themes": ["Famille / Enfance / Education"],
+            "name": "ASSOCIATION REGIONALE DES CENTRES D'ENTRAINEMENT AUX METHODES D'EDUCATION ACTIVE DE NOUVELLE-AQUITAINE",
+            "description": "La diffusion des idées d’Éducation Nouvelle et d’Éducation populaire dans une dimension régionale, nationale, et internationale."
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.378012,
+                46.58029
+            ]
+        },
+    },
+    {
+        "id": "6db09044d2ec8914c87e044458ef9b9025d7008b",
+            "associationId": "38421240300016",
+            "themes": ["Action sociale / Insertion / Economie Solidaire"],
+            "name": "ASSOCIATION RESIDENCE DU CHATEAU DE L'ERMITAGE",
+            "description": "Assurer à ses membres les prestations et services les dégageant des soucis domestiques et matériels, dans toute la mesure compatible avec l'organisation générale, et régler tous les problèmes de l'ensemble de la Résidence, qui ne sont pas du domaine de la copropriété, et par conséquent, du syndicat des copropriétaires."
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.322476,
+                46.557229
+            ]
+        },
+    },
+    {
+        "id": "a609fdb3f97a0f116a72c07a085c235ab05cd989",
+            "description": "Apporter une aide solidaire à l'association Munyu de Banfora (Burkina-Faso), Province de la Comoé), 1ère association de femmes au Burkina Faso (plus de 10 000 adhérentes), en expliquant et en soutenant moralement et financièrement certaines de ses actions, notamment dans les domaines suivants: d'abord la santé, mais aussi l'éducation, l'alphabétisation, la promotion sociale, le contrôle des naissances et l'information.\nElle peut préparer l'organisation de séjours ou missions d'études ou d'action solidaire à Banfora.\nElle recherchera des synergies avec d'autres associations oeuvrant notamment pour le développement des femmes dans cette région du Burkina-Faso.",
+            "themes": ["Défense des droits de l'homme / Causes humanitaires"],
+            "name": "ASSOCIATION SOLIDARITE MUNYU"
+        },
+    },
+    {
+        "id": "14f7150ae62aca9267387b1189de6117953dbfab",
+            "themes": ["Sports"],
+            "name": "ASSOCIATION SPORTIVE AMICALE DES COURONNERIES FETE LE MUR"
+        },
+    },
+    {
+        "id": "2e81b2e0a2986f375225e1dc965d77b2e1437d7f",
+            "associationId": "49320233700017",
+            "themes": ["Sports"],
+            "name": "ASSOCIATION SPORTIVE DES CHEMINOTS DE POITIERS BIARD - ASCPB",
+            "description": "de représenter les sportives et sportifs des différentes sections auprès du Comité d'Etablissement Régional de la S.N.C.F, des autorités compétentes de la S.N.C.F., des pouvoirs publics et des fédérations sportives, notamment pour tout ce qui concerne les installations sportives, les subventions, l'incitation aux activités physiques et sportives.\nb) de répandre le goût du sport amateur et de promouvoir la pratique du sport, de développer en eux, par son exercice loyal, l'esprit de solidarité et de l'amitié.\nc) de faciliter la création de nouvelles sections.\nd) de répartir les subventions aux sections et de les leur mandater.\ne) de participer aux rencontres organisées par l'Amicale Sportive des Cheminots du Sud-ouest et de l'Union Sportives des Cheminots de France.\nf) d'interdire en son sein, toute discussion ou manifestation représentant un caractère politique ou confessionnel."
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.33225,
+                46.58078
+            ]
+        },
+    },
+    {
+        "id": "917158b4a0610013ec36d9bba188c65aa2aea43e",
+            "associationId": "44755686100014",
+            "themes": ["Sports"],
+            "name": "ASSOCIATION SPORTS LOISIRS ET CULTURE DE SAINT-BENOIT",
+            "description": "L'association a pour but :\n• Favoriser, développer, encourager la pratique de l'éducation physique, des sports, et des activités socioculturelles.\n• Faciliter la coordination des activités pour l'emploi des installations, du matériel, par la participation à l'association des  représentants des associations sportives et socioculturelles de Saint Benoit.\n• Organiser : des assemblées périodiques, des débats sur des questions sportives, socioculturelles, des manifestations.\n• L'association s'interdit toutes discussions ou manifestations présentant un caractère politique ou confessionnel."
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.340154,
+                46.549713
+            ]
+        },
+    },
+    {
+        "id": "35c13e04a2f9daaff4aa9b86c7cc7d89fe441861",
+            "associationId": "33504227100080",
+            "themes": ["Comités / Maisons de quartiers"],
+            "name": "ASSOCIATION TERRITORIALE DES CEMEA POITOU-CHARENTES",
+            "description": "Engagement dans des pratiques autour des valeurs et des principes de l'éducation nouvelle et des méthodes d'éducation active.\nFormation BAFA-BAFD. Formation BPJEPS - DEJEPS. Accompagnement culturel. Mouvement d'éducation populaire et d'éducation nouvelle."
+        },
+    },
+    {
+        "id": "b9cb90f70c7c8b1a5160c9e96b6777955a1df549",
+            "associationId": "38503721300043",
+            "themes": ["Arts/Culture"],
+            "name": "ATELIER ANNA WEILL",
+            "description": "• la danse contemporaine par la création d'oeuvres chorégraphiques, la formation des danseurs professionnels et les amateurs et la médiation permettant la formation des publics.\n• De gérer le studio Anna Weill situé 3 rue de l'Abbé de l'Epée à Poitiers dans le cadre d'une convention signée avec la propriétaire du  lieu.\n• De favoriser les rencontres et échanges entre la danse contemporaine et les autres arts."
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.319747,
+                46.568878
+            ]
+        },
+    },
+    {
+        "id": "5c3a0e5063b571746b7b5a62f8ed7837114f3885",
+            "associationId": "34336251300040",
+            "themes": ["Arts/Culture"],
+            "name": "ATELIER DE DECORATION FLORALE",
+            "description": "Cette association a pour but :\n• de promouvoir la décoration florale en relation étroite avec la nature comme activité  de détente et d'amélioration du cadre de vie\n• d'organiser des séances de formation, des expositions, des manifestations sur la décoration florale."
+        },
+    },
+    {
+        "id": "65f9920524ec06735a597208681dbe4f71e568c9",
+            "associationId": "43394389100013",
+            "themes": ["Sports"],
+            "name": "USEP DU CANTON MELUSIN",
+            "description": "Proposer aux enfants la pratique d'activités physiques, sportives et de pleine nature; d'activités socioculturelles, dans le cadre d'un fonctionnement démocratique."
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.042235,
+                46.418261
+            ]
+        },
+    },
+    {
+        "id": "eed708839531308f7e79b05e694990ac4136eec8",
+            "associationId": "49923830100018",
+            "themes": ["Environnement / Protection des animaux"],
+            "name": "VELOCITE.86",
+            "description": "Défendre et promouvoir l'usage de la bicyclette -mais aussi tout autre mode de \"déplacements doux\" (roller, trottinette,…)- tant pour les déplacements quotidiens (travail, écoles, courses, …) que pour les loisirs, en ville et hors la ville.\nElle intervient auprès de tous les acteurs (Pouvoirs Publics, Chambres Consulaires, Groupements de Commerçants, Maîtres d'Ouvrage,…) afin que soient mis en œuvre les aménagements et équipements favorisant ces modes de déplacements et offrant les meilleures sécurités de circulation et de stationnement."
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.32499,
+                46.570128
+            ]
+        },
+    },
+    {
+        "id": "f99a5046e028dd72ddd038066904d41206a5dd7c",
+            "associationId": "49329844200010",
+            "themes": ["Arts/Culture"],
+            "name": "VIENNE RESISTANCE INTERNEMENT DEPORTATION - VRID",
+            "description": "Promouvoir les activités pouvant favoriser la réalisation du devoir de mémoire en particulier en utilisant les techniques interactives"
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.31575,
+                46.622795
+            ]
+        },
+    },
+    {
+        "id": "ab2e99a7816b96a034c272de5d3bde42b9b141b2",
+            "associationId": "75316244500013",
+            "themes": ["Sports"],
+            "name": "VIENNE SPORTS ORGANISATIONS",
+            "description": "L'organisation de manifestations sportives dans le département, plutôt spécialisée dans l'organisation de courses cyclistes, notamment le Grand Prix du CAT de Lavausseau, le Prix des Artisans et Commerçants de Biard, et tout récemment Chasseneuil Buxerolles Espoirs en 2004."
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.364288,
+                46.645222
+            ]
+        },
+    },
+    {
+        "id": "70d91d91a9064744add403e86881b005c343f849",
+            "associationId": "39233906500022",
+            "themes": ["Autres"],
+            "name": "VILITEUIL TENNIS CLUB",
+            "description": "Cette association a pour but la pratique du tennis."
+        },
+    },
+    {
+        "id": "fb3d2433c9e4eac730561bd24106fcb4519a6f18",
+            "description": "De promouvoir le sport électronique et d'organiser des évènements de jeux en réseau dont l'objectif est la création de divertissement.\nXellence garantit un fonctionnement associatif et démocratique.",
+            "themes": ["Sports"],
+            "name": "XELLENCE"
+        },
+    },
+    {
+        "id": "f36e0b0192ae3cbb21a0a0155dfba18d876e947b",
+            "associationId": "79114594900024",
+            "themes": ["Arts/Culture"],
+            "name": "X-STATIC-PROGRESS",
+            "description": "La création et la diffusion de spectacles vivants sur le territoire français, européen et mondial."
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.34273,
+                46.589354
+            ]
+        },
+    },
+    {
+        "id": "1cd37f99386ef15579991ed612392a6fa25a3681",
+            "associationId": "81873041800014",
+            "themes": ["International"],
+            "name": "YA TCHEGBO",
+            "description": "la création, la mise en place et le fonctionnement d'une structure d'accueil et d'insertion pour personnes toxicomanes en postcure et de femmes victimes de violence dans un pays d'Afrique de l'Ouest, le Bénin."
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.341892,
+                46.584521
+            ]
+        },
+    },
+    {
+        "id": "3947f7190fe127705cabee1eaa75c3d853db002d",
+            "associationId": "49351135600021",
+            "themes": ["Sports"],
+            "name": "YOGA SHANTI",
+            "description": "La pratique et le développement du yoga. Eva Pouzet est son nouveau professeure, titulaire d'un diplôme de l'université de Rishikesh India depuis 2006, elle enseigne la pratique du kundalini yoga."
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.264659,
+                46.53425
+            ]
+        },
+    },
+    {
+        "id": "d01a2894a6776eeb09f7aaa89ec223c843ecd010",
+            "themes": ["Arts/Culture"],
+            "name": "ZERO POINT CIRQUE"
+        },
+    },
+    {
+        "id": "273f2c895527e415649358852043b9242d979375",
+            "associationId": "52036422500018",
+            "themes": ["Sports"],
+            "name": "4 PAT'CLUB 86",
+            "description": "L’association a pour unique objet de mettre en valeur les qualités de travail des chiens suivant les aptitudes de leur race. Pour ce faire elle conseille ses adhérents dans l’éducation et le dressage de leurs chiens ; elle organise des concours et des épreuves  d’agility, d’obérythmée et aussi de canicross ; elle diffuse des informations dans des publications, conférences et réunions. Aucune manifestation ne peut être organisée sans  l’autorisation de la Société  Régionale  qui est  en droit d’exiger toutes garanties qu’elle jugera utiles."
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.340875,
+                46.54955
+            ]
+        },
+    },
+    {
+        "id": "48141b443853bb04dd898fa6c166eb6be87b2ceb",
+            "description": "Promouvoir le BMX sur la commune de Migné-Auxances.",
+            "themes": ["Sports"],
+            "name": "8.6 RIDERS"
+        },
+    }
+  ]
+  ,
+  "volunteers": [{
+    "id": 1,
+    "first_name": "Naomi",
+    "last_name": "Drust",
+    "email": "ndrust0@phpbb.com",
+    "gender": "Female",
+    "phone": "1944004243",
+    "themes": ["Economie Solidaire"],
+    "missions": [08]
+  }, {
+    "id": 2,
+    "first_name": "Kiley",
+    "last_name": "Dillicate",
+    "email": "kdillicate1@typepad.com",
+    "gender": "Female",
+    "phone": "9908649109",
+    "themes": ["Economie Solidaire"],
+    "missions": [693]
+  }, {
+    "id": 3,
+    "first_name": "Cross",
+    "last_name": "Housbey",
+    "email": "chousbey2@youku.com",
+    "gender": "Male",
+    "phone": "6288024912",
+    "themes": ["Economie Solidaire"],
+    "missions": [4080]
+  }, {
+    "id": 4,
+    "first_name": "Sissy",
+    "last_name": "Boydell",
+    "email": "sboydell3@telegraph.co.uk",
+    "gender": "Female",
+    "phone": "1801042982",
+    "themes": ["Sports"],
+    "missions": [80]
+  }, {
+    "id": 5,
+    "first_name": "Courtenay",
+    "last_name": "Keech",
+    "email": "ckeech4@icq.com",
+    "gender": "Female",
+    "phone": "9814888501",
+    "themes": ["Insertion"],
+    "missions": [95677]
+  }, {
+    "id": 6,
+    "first_name": "Nikolaos",
+    "last_name": "Massy",
+    "email": "nmassy5@bigcartel.com",
+    "gender": "Male",
+    "phone": "6766103488",
+    "themes": ["Economie Solidaire"],
+    "missions": [0]
+  }, {
+    "id": 7,
+    "first_name": "Gisella",
+    "last_name": "Kleis",
+    "email": "gkleis6@edublogs.org",
+    "gender": "Female",
+    "phone": "1384165872",
+    "themes": ["Economie Solidaire"],
+    "missions": [8]
+  }, {
+    "id": 8,
+    "first_name": "Barbabra",
+    "last_name": "Dinwoodie",
+    "email": "bdinwoodie7@nifty.com",
+    "gender": "Female",
+    "phone": "8713649892",
+    "themes": ["Sports"],
+    "missions": [9]
+  }, {
+    "id": 9,
+    "first_name": "Vicky",
+    "last_name": "Collecott",
+    "email": "vcollecott8@google.co.jp",
+    "gender": "Female",
+    "phone": "4193501827",
+    "themes": ["Economie Solidaire"],
+    "missions": [4488]
+  }, {
+    "id": 10,
+    "first_name": "Enrichetta",
+    "last_name": "Ellin",
+    "email": "eellin9@last.fm",
+    "gender": "Female",
+    "phone": "8611631302",
+    "themes": ["Insertion"],
+    "missions": [5550]
+  }, {
+    "id": 11,
+    "first_name": "Elden",
+    "last_name": "Coventon",
+    "email": "ecoventona@shinystat.com",
+    "gender": "Male",
+    "phone": "7241002328",
+    "themes": ["Insertion"],
+    "missions": [0]
+  }, {
+    "id": 12,
+    "first_name": "Dru",
+    "last_name": "Rown",
+    "email": "drownb@reverbnation.com",
+    "gender": "Male",
+    "phone": "9664978785",
+    "themes": ["Insertion"],
+    "missions": [83764]
+  }, {
+    "id": 13,
+    "first_name": "Peyton",
+    "last_name": "Gaskill",
+    "email": "pgaskillc@cnet.com",
+    "gender": "Male",
+    "phone": "9172231768",
+    "themes": ["Economie Solidaire"],
+    "missions": [17]
+  }, {
+    "id": 14,
+    "first_name": "Zoe",
+    "last_name": "Hanton",
+    "email": "zhantond@quantcast.com",
+    "gender": "Female",
+    "phone": "6954642679",
+    "themes": ["Economie Solidaire"],
+    "missions": [1594]
+  }, {
+    "id": 15,
+    "first_name": "Domingo",
+    "last_name": "Gallone",
+    "email": "dgallonee@histats.com",
+    "gender": "Male",
+    "phone": "7644959146",
+    "themes": ["Economie Solidaire"],
+    "missions": [71]
+  }, {
+    "id": 16,
+    "first_name": "Marj",
+    "last_name": "MacMearty",
+    "email": "mmacmeartyf@chron.com",
+    "gender": "Female",
+    "phone": "6455450459",
+    "themes": ["Insertion"],
+    "missions": [2]
+  }, {
+    "id": 17,
+    "first_name": "Marabel",
+    "last_name": "Dudgeon",
+    "email": "mdudgeong@spiegel.de",
+    "gender": "Female",
+    "phone": "4458802639",
+    "themes": ["Sports"],
+    "missions": [122]
+  }, {
+    "id": 18,
+    "first_name": "Loree",
+    "last_name": "De Fries",
+    "email": "ldefriesh@oaic.gov.au",
+    "gender": "Female",
+    "phone": "1976357191",
+    "themes": ["Insertion"],
+    "missions": [4012]
+  }, {
+    "id": 19,
+    "first_name": "Duffie",
+    "last_name": "Oldam",
+    "email": "doldami@pinterest.com",
+    "gender": "Male",
+    "phone": "5698174391",
+    "themes": ["Insertion"],
+    "missions": [5]
+  }, {
+    "id": 20,
+    "first_name": "Rourke",
+    "last_name": "Garcia",
+    "email": "rgarciaj@wufoo.com",
+    "gender": "Male",
+    "phone": "9413231952",
+    "themes": ["Insertion"],
+    "missions": [8764]
+  }, {
+    "id": 21,
+    "first_name": "Dillie",
+    "last_name": "Bewlie",
+    "email": "dbewliek@mapquest.com",
+    "gender": "Male",
+    "phone": "5648611300",
+    "themes": ["Insertion"],
+    "missions": [03]
+  }, {
+    "id": 22,
+    "first_name": "Lianne",
+    "last_name": "Claybourne",
+    "email": "lclaybournel@artisteer.com",
+    "gender": "Female",
+    "phone": "9928994104",
+    "themes": ["Economie Solidaire"],
+    "missions": [6622]
+  }, {
+    "id": 23,
+    "first_name": "Arielle",
+    "last_name": "Juppe",
+    "email": "ajuppem@unesco.org",
+    "gender": "Female",
+    "phone": "6723702265",
+    "themes": ["Insertion"],
+    "missions": [292]
+  }, {
+    "id": 24,
+    "first_name": "Berti",
+    "last_name": "MacGaughie",
+    "email": "bmacgaughien@smugmug.com",
+    "gender": "Male",
+    "phone": "6485251304",
+    "themes": ["Insertion"],
+    "missions": [27931]
+  }, {
+    "id": 25,
+    "first_name": "Averil",
+    "last_name": "Earle",
+    "email": "aearleo@cnbc.com",
+    "gender": "Male",
+    "phone": "3799111913",
+    "themes": ["Insertion"],
+    "missions": [31518]
+  }, {
+    "id": 26,
+    "first_name": "Meggy",
+    "last_name": "Skewes",
+    "email": "mskewesp@wiley.com",
+    "gender": "Female",
+    "phone": "1355902113",
+    "themes": ["Sports"],
+    "missions": [20]
+  }, {
+    "id": 27,
+    "first_name": "Dante",
+    "last_name": "Biddlestone",
+    "email": "dbiddlestoneq@baidu.com",
+    "gender": "Male",
+    "phone": "1798652966",
+    "themes": ["Sports"],
+    "missions": [0714]
+  }, {
+    "id": 28,
+    "first_name": "Kylie",
+    "last_name": "Pennrington",
+    "email": "kpennringtonr@bing.com",
+    "gender": "Male",
+    "phone": "3755343084",
+    "themes": ["Sports"],
+    "missions": [60]
+  }, {
+    "id": 29,
+    "first_name": "Kitty",
+    "last_name": "Almeida",
+    "email": "kalmeidas@xinhuanet.com",
+    "gender": "Female",
+    "phone": "3454668265",
+    "themes": ["Sports"],
+    "missions": [3253]
+  }, {
+    "id": 30,
+    "first_name": "Balduin",
+    "last_name": "Rudeyeard",
+    "email": "brudeyeardt@altervista.org",
+    "gender": "Male",
+    "phone": "2385439644",
+    "themes": ["Insertion"],
+    "missions": [95345]
+  }, {
+    "id": 31,
+    "first_name": "Rosalinde",
+    "last_name": "Box",
+    "email": "rboxu@ft.com",
+    "gender": "Female",
+    "phone": "5888974083",
+    "themes": ["Sports"],
+    "missions": [89]
+  }, {
+    "id": 32,
+    "first_name": "Marietta",
+    "last_name": "Melia",
+    "email": "mmeliav@cornell.edu",
+    "gender": "Female",
+    "phone": "4799569262",
+    "themes": ["Economie Solidaire"],
+    "missions": [8900]
+  }, {
+    "id": 33,
+    "first_name": "Louie",
+    "last_name": "Parrett",
+    "email": "lparrettw@census.gov",
+    "gender": "Male",
+    "phone": "2233612493",
+    "themes": ["Sports"],
+    "missions": [69]
+  }, {
+    "id": 34,
+    "first_name": "Baxie",
+    "last_name": "Girardetti",
+    "email": "bgirardettix@google.com.br",
+    "gender": "Male",
+    "phone": "7664517673",
+    "themes": ["Sports"],
+    "missions": [367]
+  }, {
+    "id": 35,
+    "first_name": "Inger",
+    "last_name": "Durran",
+    "email": "idurrany@aboutads.info",
+    "gender": "Female",
+    "phone": "3083485693",
+    "themes": ["Insertion"],
+    "missions": [95957]
+  }, {
+    "id": 36,
+    "first_name": "Yvor",
+    "last_name": "Richfield",
+    "email": "yrichfieldz@noaa.gov",
+    "gender": "Male",
+    "phone": "1024522107",
+    "themes": ["Sports"],
+    "missions": [071]
+  }, {
+    "id": 37,
+    "first_name": "Dani",
+    "last_name": "Hawyes",
+    "email": "dhawyes10@miibeian.gov.cn",
+    "gender": "Male",
+    "phone": "9047560926",
+    "themes": ["Sports"],
+    "missions": [1685]
+  }, {
+    "id": 38,
+    "first_name": "Domingo",
+    "last_name": "Castellini",
+    "email": "dcastellini11@squarespace.com",
+    "gender": "Male",
+    "phone": "4196283153",
+    "themes": ["Insertion"],
+    "missions": [7]
+  }, {
+    "id": 39,
+    "first_name": "Blair",
+    "last_name": "Leggan",
+    "email": "bleggan12@globo.com",
+    "gender": "Female",
+    "phone": "5365461411",
+    "themes": ["Insertion"],
+    "missions": [521]
+  }, {
+    "id": 40,
+    "first_name": "Osbert",
+    "last_name": "Mouser",
+    "email": "omouser13@oracle.com",
+    "gender": "Male",
+    "phone": "6046442461",
+    "themes": ["Insertion"],
+    "missions": [6005]
+  }, {
+    "id": 41,
+    "first_name": "Ebeneser",
+    "last_name": "Ponting",
+    "email": "eponting14@instagram.com",
+    "gender": "Male",
+    "phone": "5648581413",
+    "themes": ["Insertion"],
+    "missions": [52]
+  }, {
+    "id": 42,
+    "first_name": "Hedvig",
+    "last_name": "Jamison",
+    "email": "hjamison15@smugmug.com",
+    "gender": "Female",
+    "phone": "2865530791",
+    "themes": ["Insertion"],
+    "missions": [1440]
+  }, {
+    "id": 43,
+    "first_name": "Tonye",
+    "last_name": "Melmoth",
+    "email": "tmelmoth16@twitpic.com",
+    "gender": "Female",
+    "phone": "6812313350",
+    "themes": ["Insertion"],
+    "missions": [1]
+  }, {
+    "id": 44,
+    "first_name": "Perrine",
+    "last_name": "Sides",
+    "email": "psides17@illinois.edu",
+    "gender": "Female",
+    "phone": "1188201661",
+    "themes": ["Economie Solidaire"],
+    "missions": [10843]
+  }, {
+    "id": 45,
+    "first_name": "Nate",
+    "last_name": "Elkins",
+    "email": "nelkins18@dell.com",
+    "gender": "Male",
+    "phone": "5187728233",
+    "themes": ["Sports"],
+    "missions": [345]
+  }, {
+    "id": 46,
+    "first_name": "Jessi",
+    "last_name": "Klausewitz",
+    "email": "jklausewitz19@mayoclinic.com",
+    "gender": "Female",
+    "phone": "4111278819",
+    "themes": ["Insertion"],
+    "missions": [4615]
+  }, {
+    "id": 47,
+    "first_name": "Keelby",
+    "last_name": "Hallbord",
+    "email": "khallbord1a@infoseek.co.jp",
+    "gender": "Male",
+    "phone": "8984444678",
+    "themes": ["Insertion"],
+    "missions": [63]
+  }, {
+    "id": 48,
+    "first_name": "Bruno",
+    "last_name": "Janacek",
+    "email": "bjanacek1b@accuweather.com",
+    "gender": "Male",
+    "phone": "9662762447",
+    "themes": ["Insertion"],
+    "missions": [8439]
+  }, {
+    "id": 49,
+    "first_name": "Hana",
+    "last_name": "Tinniswood",
+    "email": "htinniswood1c@printfriendly.com",
+    "gender": "Female",
+    "phone": "3603007750",
+    "themes": ["Insertion"],
+    "missions": [819]
+  }, {
+    "id": 50,
+    "first_name": "Morty",
+    "last_name": "Cornau",
+    "email": "mcornau1d@cbc.ca",
+    "gender": "Male",
+    "phone": "2796180070",
+    "themes": ["Insertion"],
+    "missions": [5376]
+  }, {
+    "id": 51,
+    "first_name": "Madel",
+    "last_name": "Vannuccinii",
+    "email": "mvannuccinii1e@g.co",
+    "gender": "Female",
+    "phone": "4632730229",
+    "themes": ["Economie Solidaire"],
+    "missions": [3866]
+  }, {
+    "id": 52,
+    "first_name": "Rorke",
+    "last_name": "Lucus",
+    "email": "rlucus1f@earthlink.net",
+    "gender": "Male",
+    "phone": "3816707637",
+    "themes": ["Economie Solidaire"],
+    "missions": [3]
+  }, {
+    "id": 53,
+    "first_name": "Frasco",
+    "last_name": "Berceros",
+    "email": "fberceros1g@histats.com",
+    "gender": "Male",
+    "phone": "6864246036",
+    "themes": ["Insertion"],
+    "missions": [7]
+  }, {
+    "id": 54,
+    "first_name": "Dimitri",
+    "last_name": "Probey",
+    "email": "dprobey1h@ft.com",
+    "gender": "Male",
+    "phone": "9341667862",
+    "themes": ["Economie Solidaire"],
+    "missions": [9226]
+  }, {
+    "id": 55,
+    "first_name": "Ema",
+    "last_name": "Beswetherick",
+    "email": "ebeswetherick1i@blogger.com",
+    "gender": "Female",
+    "phone": "9623699961",
+    "themes": ["Insertion"],
+    "missions": [33947]
+  }, {
+    "id": 56,
+    "first_name": "Arlen",
+    "last_name": "Warrier",
+    "email": "awarrier1j@apple.com",
+    "gender": "Female",
+    "phone": "2251996514",
+    "themes": ["Economie Solidaire"],
+    "missions": [87546]
+  }, {
+    "id": 57,
+    "first_name": "Nerta",
+    "last_name": "Huyge",
+    "email": "nhuyge1k@mayoclinic.com",
+    "gender": "Female",
+    "phone": "4989438716",
+    "themes": ["Insertion"],
+    "missions": [83]
+  }, {
+    "id": 58,
+    "first_name": "Lenka",
+    "last_name": "Cawt",
+    "email": "lcawt1l@slideshare.net",
+    "gender": "Female",
+    "phone": "9739673780",
+    "themes": ["Insertion"],
+    "missions": [47]
+  }, {
+    "id": 59,
+    "first_name": "Rochette",
+    "last_name": "Nussen",
+    "email": "rnussen1m@dell.com",
+    "gender": "Female",
+    "phone": "6189223957",
+    "themes": ["Insertion"],
+    "missions": [8621]
+  }, {
+    "id": 60,
+    "first_name": "Ealasaid",
+    "last_name": "Arnaudet",
+    "email": "earnaudet1n@oakley.com",
+    "gender": "Female",
+    "phone": "8413920657",
+    "themes": ["Sports"],
+    "missions": [480]
+  }, {
+    "id": 61,
+    "first_name": "Aridatha",
+    "last_name": "Schoroder",
+    "email": "aschoroder1o@multiply.com",
+    "gender": "Female",
+    "phone": "5504208391",
+    "themes": ["Sports"],
+    "missions": [0]
+  }, {
+    "id": 62,
+    "first_name": "Katha",
+    "last_name": "Sandilands",
+    "email": "ksandilands1p@yellowpages.com",
+    "gender": "Female",
+    "phone": "3206336992",
+    "themes": ["Sports"],
+    "missions": [3199]
+  }, {
+    "id": 63,
+    "first_name": "Chandler",
+    "last_name": "Byas",
+    "email": "cbyas1q@php.net",
+    "gender": "Male",
+    "phone": "3502972329",
+    "themes": ["Sports"],
+    "missions": [13]
+  }, {
+    "id": 64,
+    "first_name": "Weber",
+    "last_name": "Amber",
+    "email": "wamber1r@who.int",
+    "gender": "Male",
+    "phone": "5284677409",
+    "themes": ["Insertion"],
+    "missions": [3]
+  }, {
+    "id": 65,
+    "first_name": "Onfroi",
+    "last_name": "Epilet",
+    "email": "oepilet1s@chronoengine.com",
+    "gender": "Male",
+    "phone": "7732023132",
+    "themes": ["Economie Solidaire"],
+    "missions": [96]
+  }, {
+    "id": 66,
+    "first_name": "Shamus",
+    "last_name": "Gallemore",
+    "email": "sgallemore1t@instagram.com",
+    "gender": "Male",
+    "phone": "8125429758",
+    "themes": ["Insertion"],
+    "missions": [19405]
+  }, {
+    "id": 67,
+    "first_name": "Cesaro",
+    "last_name": "Ferby",
+    "email": "cferby1u@upenn.edu",
+    "gender": "Male",
+    "phone": "7108127823",
+    "themes": ["Economie Solidaire"],
+    "missions": [20]
+  }, {
+    "id": 68,
+    "first_name": "Denny",
+    "last_name": "Aberkirdo",
+    "email": "daberkirdo1v@pen.io",
+    "gender": "Female",
+    "phone": "8534689084",
+    "themes": ["Economie Solidaire"],
+    "missions": [22270]
+  }, {
+    "id": 69,
+    "first_name": "Vinita",
+    "last_name": "Cummine",
+    "email": "vcummine1w@feedburner.com",
+    "gender": "Female",
+    "phone": "4667198590",
+    "themes": ["Economie Solidaire"],
+    "missions": [39]
+  }, {
+    "id": 70,
+    "first_name": "Florencia",
+    "last_name": "Mallon",
+    "email": "fmallon1x@pagesperso-orange.fr",
+    "gender": "Female",
+    "phone": "4038701991",
+    "themes": ["Sports"],
+    "missions": [9032]
+  }, {
+    "id": 71,
+    "first_name": "Britt",
+    "last_name": "Pimbley",
+    "email": "bpimbley1y@netscape.com",
+    "gender": "Male",
+    "phone": "3449096392",
+    "themes": ["Insertion"],
+    "missions": [5]
+  }, {
+    "id": 72,
+    "first_name": "Rasia",
+    "last_name": "Beminster",
+    "email": "rbeminster1z@ca.gov",
+    "gender": "Female",
+    "phone": "8573023727",
+    "themes": ["Economie Solidaire"],
+    "missions": [8165]
+  }, {
+    "id": 73,
+    "first_name": "Marietta",
+    "last_name": "Girton",
+    "email": "mgirton20@foxnews.com",
+    "gender": "Female",
+    "phone": "6089727314",
+    "themes": ["Insertion"],
+    "missions": [4]
+  }, {
+    "id": 74,
+    "first_name": "Bastian",
+    "last_name": "Race",
+    "email": "brace21@amazon.co.uk",
+    "gender": "Male",
+    "phone": "6532495672",
+    "themes": ["Insertion"],
+    "missions": [52]
+  }, {
+    "id": 75,
+    "first_name": "Andras",
+    "last_name": "Kinnerley",
+    "email": "akinnerley22@scientificamerican.com",
+    "gender": "Male",
+    "phone": "8504330250",
+    "themes": ["Economie Solidaire"],
+    "missions": [0383]
+  }, {
+    "id": 76,
+    "first_name": "Christel",
+    "last_name": "Marrington",
+    "email": "cmarrington23@bizjournals.com",
+    "gender": "Female",
+    "phone": "1407385636",
+    "themes": ["Economie Solidaire"],
+    "missions": [5495]
+  }, {
+    "id": 77,
+    "first_name": "Hoebart",
+    "last_name": "Trineman",
+    "email": "htrineman24@dedecms.com",
+    "gender": "Male",
+    "phone": "9942465028",
+    "themes": ["Sports"],
+    "missions": [0633]
+  }, {
+    "id": 78,
+    "first_name": "Rand",
+    "last_name": "Olyff",
+    "email": "rolyff25@gravatar.com",
+    "gender": "Male",
+    "phone": "2399249197",
+    "themes": ["Sports"],
+    "missions": [42446]
+  }, {
+    "id": 79,
+    "first_name": "Gregg",
+    "last_name": "Morten",
+    "email": "gmorten26@people.com.cn",
+    "gender": "Male",
+    "phone": "8467562358",
+    "themes": ["Insertion"],
+    "missions": [9184]
+  }, {
+    "id": 80,
+    "first_name": "Purcell",
+    "last_name": "Clarkson",
+    "email": "pclarkson27@scribd.com",
+    "gender": "Male",
+    "phone": "2871853991",
+    "themes": ["Insertion"],
+    "missions": [90583]
+  }, {
+    "id": 81,
+    "first_name": "Darrin",
+    "last_name": "Pentecost",
+    "email": "dpentecost28@adobe.com",
+    "gender": "Male",
+    "phone": "5244828346",
+    "themes": ["Economie Solidaire"],
+    "missions": [309]
+  }, {
+    "id": 82,
+    "first_name": "Ynes",
+    "last_name": "Toon",
+    "email": "ytoon29@a8.net",
+    "gender": "Female",
+    "phone": "5879084191",
+    "themes": ["Economie Solidaire"],
+    "missions": [64744]
+  }, {
+    "id": 83,
+    "first_name": "Glenn",
+    "last_name": "Isard",
+    "email": "gisard2a@twitter.com",
+    "gender": "Female",
+    "phone": "4754393948",
+    "themes": ["Economie Solidaire"],
+    "missions": [11784]
+  }, {
+    "id": 84,
+    "first_name": "Nikolaus",
+    "last_name": "Deville",
+    "email": "ndeville2b@stanford.edu",
+    "gender": "Male",
+    "phone": "7442222614",
+    "themes": ["Sports"],
+    "missions": [0355]
+  }, {
+    "id": 85,
+    "first_name": "Thurstan",
+    "last_name": "Burnand",
+    "email": "tburnand2c@vkontakte.ru",
+    "gender": "Male",
+    "phone": "2915470774",
+    "themes": ["Insertion"],
+    "missions": [39124]
+  }, {
+    "id": 86,
+    "first_name": "Kerr",
+    "last_name": "Sparshett",
+    "email": "ksparshett2d@slideshare.net",
+    "gender": "Male",
+    "phone": "6565568641",
+    "themes": ["Economie Solidaire"],
+    "missions": [4]
+  }, {
+    "id": 87,
+    "first_name": "Patricio",
+    "last_name": "Broggetti",
+    "email": "pbroggetti2e@statcounter.com",
+    "gender": "Male",
+    "phone": "9401092734",
+    "themes": ["Sports"],
+    "missions": [2396]
+  }, {
+    "id": 88,
+    "first_name": "Bartholomeus",
+    "last_name": "Fazzioli",
+    "email": "bfazzioli2f@chicagotribune.com",
+    "gender": "Male",
+    "phone": "8421442921",
+    "themes": ["Sports"],
+    "missions": [07122]
+  }, {
+    "id": 89,
+    "first_name": "Hollie",
+    "last_name": "Watmough",
+    "email": "hwatmough2g@umich.edu",
+    "gender": "Female",
+    "phone": "3382441922",
+    "themes": ["Sports"],
+    "missions": [1389]
+  }, {
+    "id": 90,
+    "first_name": "Symon",
+    "last_name": "Sandyfirth",
+    "email": "ssandyfirth2h@dropbox.com",
+    "gender": "Male",
+    "phone": "7085434397",
+    "themes": ["Insertion"],
+    "missions": [01]
+  }, {
+    "id": 91,
+    "first_name": "Mano",
+    "last_name": "Ranger",
+    "email": "mranger2i@google.it",
+    "gender": "Male",
+    "phone": "4114601118",
+    "themes": ["Economie Solidaire"],
+    "missions": [1750]
+  }, {
+    "id": 92,
+    "first_name": "Carline",
+    "last_name": "Scardifield",
+    "email": "cscardifield2j@so-net.ne.jp",
+    "gender": "Female",
+    "phone": "6746229313",
+    "themes": ["Economie Solidaire"],
+    "missions": [88]
+  }, {
+    "id": 93,
+    "first_name": "Averell",
+    "last_name": "Mensler",
+    "email": "amensler2k@gmpg.org",
+    "gender": "Male",
+    "phone": "9535407169",
+    "themes": ["Economie Solidaire"],
+    "missions": [64257]
+  }, {
+    "id": 94,
+    "first_name": "Gwenette",
+    "last_name": "Drover",
+    "email": "gdrover2l@hostgator.com",
+    "gender": "Female",
+    "phone": "5661241450",
+    "themes": ["Sports"],
+    "missions": [4067]
+  }, {
+    "id": 95,
+    "first_name": "Pascal",
+    "last_name": "Able",
+    "email": "pable2m@utexas.edu",
+    "gender": "Male",
+    "phone": "3733757655",
+    "themes": ["Insertion"],
+    "missions": [620]
+  }, {
+    "id": 96,
+    "first_name": "Kaja",
+    "last_name": "Caldow",
+    "email": "kcaldow2n@google.com.br",
+    "gender": "Female",
+    "phone": "4841347355",
+    "themes": ["Insertion"],
+    "missions": [3]
+  }, {
+    "id": 97,
+    "first_name": "Erminia",
+    "last_name": "Frift",
+    "email": "efrift2o@delicious.com",
+    "gender": "Female",
+    "phone": "3335159122",
+    "themes": ["Insertion"],
+    "missions": [6051]
+  }, {
+    "id": 98,
+    "first_name": "Twyla",
+    "last_name": "Wildgoose",
+    "email": "twildgoose2p@constantcontact.com",
+    "gender": "Female",
+    "phone": "8443575779",
+    "themes": ["Sports"],
+    "missions": [856]
+  }, {
+    "id": 99,
+    "first_name": "Luce",
+    "last_name": "Neachell",
+    "email": "lneachell2q@csmonitor.com",
+    "gender": "Male",
+    "phone": "8044444197",
+    "themes": ["Insertion"],
+    "missions": [4]
+  }, {
+    "id": 100,
+    "first_name": "Eldin",
+    "last_name": "Wrightson",
+    "email": "ewrightson2r@google.ru",
+    "gender": "Male",
+    "phone": "8594851594",
+    "themes": ["Sports"],
+    "missions": [4740]
+  }],
+  "missions": [{"id": 1,
+    "body": "some comment",
+    "postId": 1
+  }],
+}
